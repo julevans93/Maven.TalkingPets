@@ -9,7 +9,7 @@ public class Cat extends Pet {
         }
 
         public String speak(){
-            return "Bark";
+            return "Meow";
         }
 
         public void setName(){
