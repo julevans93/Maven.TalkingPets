@@ -9,14 +9,8 @@ public class Cat extends Pet {
         }
 
         public String speak(){
-            return "Bark";
+
+            return "meow!";
         }
 
-        public void setName(){
-            this.name= name;
-        }
-
-        public String getName(){
-            return this.name;
-        }
 }
